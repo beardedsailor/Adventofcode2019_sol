@@ -14,6 +14,7 @@ def process_array(input_arr):
         elif operator == 2:
             arr[arr[index + 3]] = numberA * numberB
 
+    
     return arr[0]
 
 for noun in range(100):
