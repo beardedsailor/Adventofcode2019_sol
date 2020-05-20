@@ -9,7 +9,6 @@ for i in range(0,val,4):
         inp[inp[i+3]]=inp[inp[i+1]]*inp[inp[i+2]] 
     elif inp[i]==99:
         break
-    
 print(inp[0])            
 
  
